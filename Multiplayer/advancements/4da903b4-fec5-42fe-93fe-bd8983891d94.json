@@ -739,12 +739,16 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "bayou": "2023-03-30 18:04:51 +0200",
+      "wetland": "2023-03-30 17:03:30 +0200",
       "cold_desert": "2023-03-28 22:53:19 +0200",
       "alps": "2023-03-28 23:02:12 +0200",
+      "visceral_heap": "2023-03-30 18:07:42 +0200",
       "snowy_forest": "2023-03-28 22:23:51 +0200",
       "glacier": "2023-03-28 22:21:44 +0200",
       "meadow": "2023-03-29 22:50:33 +0200",
       "tundra": "2023-03-29 22:56:49 +0200",
+      "rainforest": "2023-03-30 17:52:19 +0200",
       "brushland": "2023-03-28 18:45:05 +0200"
     },
     "done": false
@@ -1428,6 +1432,7 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
+      "peridot": "2023-03-30 17:46:17 +0200",
       "emerald": "2023-03-29 20:10:40 +0200",
       "ruby": "2023-03-28 20:00:59 +0200",
       "tanzanite": "2023-03-29 16:39:46 +0200"
@@ -1874,6 +1879,7 @@
       "forest": "2023-03-28 18:46:55 +0200",
       "taiga_cold": "2023-03-28 22:52:24 +0200",
       "ocean": "2023-03-28 22:18:45 +0200",
+      "roofed_forest": "2023-03-30 20:55:23 +0200",
       "cold_beach": "2023-03-28 22:19:54 +0200",
       "river": "2023-03-28 20:45:29 +0200"
     },
@@ -2443,6 +2449,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-03-30 18:05:00 +0200"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2023-03-28 18:45:04 +0200"
@@ -2697,12 +2709,15 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2023-03-30 22:33:56 +0200",
       "cooked_beef": "2023-03-28 21:22:58 +0200",
       "baked_potato": "2023-03-29 18:47:10 +0200",
       "apple": "2023-03-28 20:51:22 +0200",
       "potato": "2023-03-28 20:04:40 +0200",
+      "bread": "2023-03-30 20:49:53 +0200",
       "rotten_flesh": "2023-03-29 19:08:40 +0200",
-      "cooked_chicken": "2023-03-28 18:57:37 +0200"
+      "cooked_chicken": "2023-03-28 18:57:37 +0200",
+      "carrot": "2023-03-30 20:45:36 +0200"
     },
     "done": false
   },
@@ -3270,6 +3285,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-03-30 18:05:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2023-03-28 18:45:04 +0200"
@@ -3588,6 +3609,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/flesh_and_blood": {
+    "criteria": {
+      "flesh": "2023-03-30 18:08:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_the_recipe": "2023-03-28 18:45:04 +0200"
@@ -3597,6 +3624,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_the_recipe": "2023-03-28 18:45:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2023-03-30 18:08:22 +0200"
     },
     "done": true
   },

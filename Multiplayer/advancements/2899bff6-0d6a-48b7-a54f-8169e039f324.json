@@ -1019,8 +1019,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2023-03-30 20:25:29 +0200",
       "wither_skeleton": "2023-03-30 00:05:30 +0200",
       "zombie_villager": "2023-03-29 16:29:20 +0200",
+      "magma_cube": "2023-03-30 18:36:23 +0200",
+      "slime": "2023-03-30 20:30:24 +0200",
       "skeleton": "2023-03-28 19:49:05 +0200",
       "blaze": "2023-03-30 00:04:28 +0200",
       "zombie": "2023-03-28 19:09:44 +0200",
@@ -1460,6 +1463,7 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
+      "peridot": "2023-03-30 19:14:21 +0200",
       "emerald": "2023-03-29 16:52:19 +0200",
       "ruby": "2023-03-28 20:00:01 +0200",
       "tanzanite": "2023-03-29 16:50:27 +0200"
@@ -2026,6 +2030,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2023-03-28 18:43:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2023-03-30 17:56:12 +0200"
     },
     "done": true
   },
@@ -2733,10 +2743,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2023-03-30 21:40:20 +0200",
       "cooked_mutton": "2023-03-28 19:34:46 +0200",
       "cooked_beef": "2023-03-28 21:59:32 +0200",
       "apple": "2023-03-28 18:58:58 +0200",
+      "spider_eye": "2023-03-30 16:52:02 +0200",
+      "pumpkin_pie": "2023-03-30 17:55:21 +0200",
       "bread": "2023-03-28 19:13:21 +0200",
+      "golden_carrot": "2023-03-30 18:52:03 +0200",
       "cooked_chicken": "2023-03-28 18:58:22 +0200",
       "cooked_salmon": "2023-03-28 19:00:12 +0200"
     },
@@ -2963,6 +2977,12 @@
       "has_the_recipe": "2023-03-28 18:43:21 +0200"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_cow": "2023-03-30 21:35:26 +0200"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/redstone/ebony_fence_gate": {
     "criteria": {
@@ -3447,6 +3467,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2023-03-28 18:43:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2023-03-30 17:54:30 +0200"
     },
     "done": true
   },
@@ -4353,6 +4379,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_the_recipe": "2023-03-28 18:43:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_cow": "2023-03-30 21:35:26 +0200"
     },
     "done": true
   },
